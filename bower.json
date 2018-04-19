@@ -1,0 +1,29 @@
+{
+  "name": "flashcore-message",
+  "main": "./flashcore-message.min.js",
+  "version": "1.0.2",
+  "homepage": "https://github.com/flash-coin/flashcore-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Flashcoin Message Verification and Signing for Litecore",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "flashcoin",
+    "flashcore",
+    "ltc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
