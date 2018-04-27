@@ -26,7 +26,6 @@
     "url": "git+https://github.com/flash-coin/flashcore-message.git"
   },
   "dependencies": {
-    "flashcore-lib": "^0.13.22"
   },
   "devDependencies": {
     "flashcore-build": "github:flash-coin/flashcore-build",
